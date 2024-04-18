@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .message {
+    font-family: 'Comic Sans MS', cursive;
+    font-size: 24px;
+    color: #ff6f61;
+    margin-top: 20px;
+  }
+  
